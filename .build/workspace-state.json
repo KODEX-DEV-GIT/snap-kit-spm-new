@@ -1,0 +1,67 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "snap-kit-spm-2.0.0",
+          "kind" : "root",
+          "location" : "/Users/muhammadusman/Downloads/snap-kit-spm-2.0.0",
+          "name" : "snap-kit-spm-2.0.0"
+        },
+        "path" : "/Users/muhammadusman/Downloads/snap-kit-spm-2.0.0/SCSDKCreativeKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "SCSDKCreativeKit"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "snap-kit-spm-2.0.0",
+          "kind" : "root",
+          "location" : "/Users/muhammadusman/Downloads/snap-kit-spm-2.0.0",
+          "name" : "snap-kit-spm-2.0.0"
+        },
+        "path" : "/Users/muhammadusman/Downloads/snap-kit-spm-2.0.0/SCSDKCoreKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "SCSDKCoreKit"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "snap-kit-spm-2.0.0",
+          "kind" : "root",
+          "location" : "/Users/muhammadusman/Downloads/snap-kit-spm-2.0.0",
+          "name" : "snap-kit-spm-2.0.0"
+        },
+        "path" : "/Users/muhammadusman/Downloads/snap-kit-spm-2.0.0/SCSDKLoginKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "SCSDKLoginKit"
+      }
+    ],
+    "dependencies" : [
+
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}
