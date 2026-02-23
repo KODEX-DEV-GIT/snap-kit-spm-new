@@ -4,14 +4,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "SnapKit",
+    name: "snap-kit-spm-new",
     platforms: [
         .iOS(.v16)
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "SnapKit",
+            name: "snap-kit-spm-new",
             targets: ["SCSDKCoreKit", "SCSDKLoginKit", "SCSDKCreativeKit", "SCSDKBitmojiKit"])
     ],
     targets: [
